@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/lakshya-purohit-b18936376/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
 </a>
+<a href="mailto:lakshyap.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Lakshya" />
+</a>
 
 </div>
 
@@ -109,6 +112,9 @@ A web app that converts expressions with a stack-based algorithm and step-by-ste
 <a href="https://www.linkedin.com/in/lakshya-purohit-b18936376/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
+<a href="mailto:lakshyap.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Lakshya" />
+</a>
 
 </div>
 
@@ -119,4 +125,5 @@ A web app that converts expressions with a stack-based algorithm and step-by-ste
 <img src="https://komarev.com/ghpvc/?username=lakshyap93&amp;style=for-the-badge" alt="Profile views" />
 
 </div>
+
 
